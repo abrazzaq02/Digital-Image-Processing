@@ -16,7 +16,7 @@ The goal is to understand how digital images can be processed and analyzed to ex
 - To implement fundamental image processing techniques.  
 - To enhance, restore, and analyze digital images effectively.  
 - To demonstrate practical understanding of filtering, edge detection, and segmentation algorithms.  
-- To build a user-friendly interface for applying image operations.
+- To build a user friendly interface for applying image operations.
 
 ---
 
