@@ -1,5 +1,5 @@
 # 🖼️ Digital Image Processing Project  
-*DIP Project (Digital Image Processing)*  
+
 **Department of Artificial Intelligence**
 
 ---
